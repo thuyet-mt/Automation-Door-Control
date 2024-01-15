@@ -41,7 +41,7 @@ git clone https://github.com/thuyet-mt14072508/ESP32-Smart-Door-Control.git
 # Navigate to the directory
 cd ESP32-Smart-Door-Control
 # Open with VS Code
-
+```
 
 
 ##Contributing
