@@ -35,22 +35,17 @@ Future improvements could include storing registration data in non-volatile memo
 To install this project, follow these steps:
 
 ```bash
+# Install VS Code, Platform IO extension.
 # Clone the repository
 git clone https://github.com/thuyet-mt14072508/ESP32-Smart-Door-Control.git
-
 # Navigate to the directory
 cd ESP32-Smart-Door-Control
+# Open with VS Code
 
-# Install dependencies
-# Add the necessary steps here
 
-Usage
-To use this project, follow these steps:
 
-# Add the necessary steps here
-
-Contributing
+##Contributing
 Contributions are welcome! Please read the contributing guidelines before getting started.
 
-License
+##License
 This project is licensed under the MIT License.
