@@ -1,4 +1,4 @@
-# ESP32 Smart Door Control
+# ESP32 Automation Door Control
 
 ## Introduction
 
