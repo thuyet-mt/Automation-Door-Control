@@ -44,8 +44,8 @@ cd ESP32-Smart-Door-Control
 ```
 
 
-##Contributing
+## Contributing
 Contributions are welcome! Please read the contributing guidelines before getting started.
 
-##License
+## License
 This project is licensed under the MIT License.
